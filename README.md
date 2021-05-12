@@ -71,7 +71,3 @@ val path = new Path(filename)
 fileSystem.open(path)
 ```
 
-* В качестве примера можно использовать этот [репозиторий](https://github.com/ExNexu/hdfs-scala-example/blob/master/src/main/scala/HDFSFileService.scala)
-* Спикок докер-контейнеров можно получить командой `docker ps`
-* Попасть внутрь докер-контейнера можно командой `docker exec -it <container_name>`
-* Любые возникающие вопросы можно обсудить в канале Slack вашей группы
